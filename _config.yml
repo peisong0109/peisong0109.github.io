@@ -86,7 +86,7 @@ author:
   location         : "Suzhou, Jiangsu Province"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "citations?user=VYLeYskAAAAJ&hl=en"
+  googlescholar    : "https://scholar.google.com/citations?user=VYLeYskAAAAJ&hl=zh-CN"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :

@@ -1,15 +1,13 @@
 ---
-title: "Paper Title Number 3"
+title: "Monte Carlo Location Algorithm Based on Model Prediction"
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
+permalink: /publication/2015-10-01-paper-title-number-7
+excerpt: 'This paper is about the number 7. '
 date: 2015-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+venue: '2018 International Symposium in Sensing and Instrumentation in IoT Era (ISSI)'
+paperurl: 'https://peisong0109.github.io/files/Monte_Carlo_Location_Algorithm_Based_on_Model_Prediction.pdf'
+citation: 'Li, Peisong, Ying Zhang, and Qiman Zhang. "Monte Carlo Location Algorithm Based on Model Prediction." In 2018 International Symposium in Sensing and Instrumentation in IoT Era (ISSI), pp. 1-5. IEEE, 2018.'
 ---
-This paper is about the number 3. The number 4 is left for future work.
+This paper is about the number 7. 
 
-[Download paper here](http://academicpages.github.io/files/paper3.pdf)
-
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
+[Download paper here](https://peisong0109.github.io/files/Monte_Carlo_Location_Algorithm_Based_on_Model_Prediction.pdf)

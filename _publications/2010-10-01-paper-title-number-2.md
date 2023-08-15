@@ -1,15 +1,13 @@
 ---
-title: "Paper Title Number 2"
+title: "Multi-model running latency optimization in an edge computing paradigm"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+excerpt: 'This paper is about the number 2.'
+date: 2022-10-01
+venue: 'Sensors'
+paperurl: 'https://peisong0109.github.io/files/sensors-22-06097-v2.pdf'
+citation: 'Li, Peisong, Xinheng Wang, Kaizhu Huang, Yi Huang, Shancang Li, and Muddesar Iqbal. "Multi-model running latency optimization in an edge computing paradigm." Sensors 22, no. 16 (2022): 6097.'
 ---
-This paper is about the number 2. The number 3 is left for future work.
+This paper is about the number 2.
 
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
-
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+[Download paper here](https://peisong0109.github.io/files/sensors-22-06097-v2.pdf)

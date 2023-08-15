@@ -1,15 +1,13 @@
 ---
-title: "Paper Title Number 1"
+title: "A dynamic and scalable user-centric route planning algorithm based on polychromatic sets theory"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+excerpt: 'This paper is about the number 1.'
+date: 2021-10-01
+venue: 'IEEE transactions on intelligent transportation systems'
+paperurl: 'https://peisong0109.github.io/files/Accepted Version of IEEE-ITS.pdf'
+citation: 'Li, Peisong, Xinheng Wang, Honghao Gao, Xiaolong Xu, Muddesar Iqbal, and Keshav Dahal. "A dynamic and scalable user-centric route planning algorithm based on polychromatic sets theory." IEEE transactions on intelligent transportation systems 23, no. 3 (2021): 2762-2772.'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+This paper is about the number 1. 
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
-
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+[Download paper here](http://academicpages.github.io/files/Accepted Version of IEEE-ITS.pdf)

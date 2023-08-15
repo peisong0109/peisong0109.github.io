@@ -1,15 +1,14 @@
 ---
-title: "Paper Title Number 3"
+title: "Online Monitoring of Overhead Power Lines Against Tree Intrusion via a Low-cost Camera and Mobile Edge Computing Approach"
 collection: publications
 permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+excerpt: 'This paper is about the number 8.'
+date: 2023-01-01
+venue: 'Journal of Physics: Conference Series'
+paperurl: 'https://peisong0109.github.io/files/Li_2023_J._Phys.__Conf._Ser._2422_012018.pdf'
+citation: 'Li, Peisong, Rui Qiu, Minzhen Wang, Xinheng Wang, Shan Jaffry, Ming Xu, Kaizhu Huang, and Yi Huang. "Online Monitoring of Overhead Power Lines Against Tree Intrusion via a Low-cost Camera and Mobile Edge Computing Approach." In Journal of Physics: Conference Series, vol. 2422, no. 1, p. 012018. IOP Publishing, 2023.'
 ---
-This paper is about the number 3. The number 4 is left for future work.
+The latest paper. 
 
-[Download paper here](http://academicpages.github.io/files/paper3.pdf)
+[Download paper here](https://peisong0109.github.io/files/Li_2023_J._Phys.__Conf._Ser._2422_012018.pdf)
 
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).

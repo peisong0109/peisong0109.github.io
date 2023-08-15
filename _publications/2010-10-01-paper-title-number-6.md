@@ -1,15 +1,13 @@
 ---
-title: "Paper Title Number 2"
+title: "Research on improved low-energy adaptive clustering hierarchy protocol in wireless sensor networks"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+permalink: /publication/2010-10-01-paper-title-number-6
+excerpt: 'This paper is about the number 6. '
+date: 2018-10-01
+venue: 'Journal of Shanghai Jiaotong University (Science)'
+paperurl: 'https://peisong0109.github.io/files/s12204-018-1991-0.pdf'
+citation: 'Zhang, Ying, Peisong Li, and Lin Mao. "Research on improved low-energy adaptive clustering hierarchy protocol in wireless sensor networks." Journal of Shanghai Jiaotong University (Science) 23 (2018): 613-619.'
 ---
-This paper is about the number 2. The number 3 is left for future work.
+This paper is about the number 6.
 
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
-
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+[Download paper here](https://peisong0109.github.io/files/s12204-018-1991-0.pdf)

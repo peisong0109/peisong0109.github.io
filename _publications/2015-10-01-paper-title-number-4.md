@@ -1,15 +1,13 @@
 ---
-title: "Paper Title Number 3"
+title: "A novel intrusion detection method for internet of things"
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+permalink: /publication/2015-10-01-paper-title-number-4
+excerpt: 'This paper is about the number 4.'
+date: 2019-10-01
+venue: '2019 Chinese control and decision conference (CCDC)'
+paperurl: 'https://peisong0109.github.io/files/A_Novel_Intrusion_Detection_Method_for_Internet_of_Things.pdf'
+citation: 'Li, Peisong, and Ying Zhang. "A novel intrusion detection method for internet of things." In 2019 Chinese control and decision conference (CCDC), pp. 4761-4765. IEEE, 2019.'
 ---
-This paper is about the number 3. The number 4 is left for future work.
+This paper is about the number 4. 
 
-[Download paper here](http://academicpages.github.io/files/paper3.pdf)
-
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
+[Download paper here](https://peisong0109.github.io/files/A_Novel_Intrusion_Detection_Method_for_Internet_of_Things.pdf)

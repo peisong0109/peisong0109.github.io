@@ -22,13 +22,15 @@ Email: peisong.li20@student.xjtlu.edu.cn
 - Edge Computing
 - Vehicular Edge Computing
 - Edge AI
-- IoT
+- Deep Reinforcement Learning
 
 
 
 ### Publications:
 
 ##### <font color="#00dddd">2023</font><br />
+
+**Peisong Li**, Ziren Xiao, Xinheng Wang, Kaizhu Huang, Yi Huang, and Honghao Gao. "EPtask: Deep Reinforcement Learning based Energy-efficient and Priority-aware Task Scheduling for Dynamic Vehicular Edge Computing." *IEEE Transactions on Intelligent Vehicles*. (Accepted, TOP)
 
 **Peisong Li**, Ziren Xiao, Xinheng Wang, Kaizhu Huang, Yi Huang, and Andrei Tchernykh. "Multi-agent Reinforcement Learning based Collaborative Multi-task Scheduling for Vehicular Edge Computing." In *EAI CollaborateCom 2023*. (CCF-C)
 

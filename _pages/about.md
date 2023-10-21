@@ -27,9 +27,9 @@ Email: peisong.li20@student.xjtlu.edu.cn
 
 
 
-### Publications:
+## Publications:
 
-##### <font color="#00dddd">Journal</font><br />
+### <font color="#00dddd">Journal</font><br />
 
 **Peisong Li**, Ziren Xiao, Xinheng Wang*, Kaizhu Huang, Yi Huang, and Honghao Gao. "EPtask: Deep Reinforcement Learning based Energy-efficient and Priority-aware Task Scheduling for Dynamic Vehicular Edge Computing." *IEEE Transactions on Intelligent Vehicles*, 2023. (JCR Q1, IF=8.2)
 
@@ -41,7 +41,7 @@ Zhang, Ying*, **Peisong Li**, and Xinheng Wang. "Intrusion detection for IoT bas
 
 Zhang, Ying, **Peisong Li**, and Lin Mao. "Research on improved low-energy adaptive clustering hierarchy protocol in wireless sensor networks." *Journal of Shanghai Jiaotong University (Science)* 23 (2018): 613-619. 
 
-##### <font color="#00dddd">Conference</font><br />
+### <font color="#00dddd">Conference</font><br />
 
 **Peisong Li**, Ziren Xiao, Xinheng Wang*, Kaizhu Huang, Yi Huang, and Andrei Tchernykh. "Multi-agent Reinforcement Learning based Collaborative Multi-task Scheduling for Vehicular Edge Computing." In *EAI CollaborateCom 2023*. (CCF-C)
 
@@ -53,7 +53,7 @@ Zhang, Ying, and **Peisong Li**. "Key management scheme based on nodes capture p
 
 **Li, Peisong**, Ying Zhang, and Qiman Zhang. "Monte Carlo Location Algorithm Based on Model Prediction." In 2018 International Symposium in *Sensing and Instrumentation in IoT Era (ISSI)*, pp. 1-5. IEEE, 2018.
 
-##### <font color="#00dddd">Under review</font><br />
+### <font color="#00dddd">Under review</font><br />
 
 Ziren Xiao, **Li, Peisong**, et al. "MACNS: A Generic Graph Neural Network Integrated Deep Reinforcement Learning Based Multi-Agent Collaborative Navigation System For Dynamic Trajectory Planning." Information Fusion. (Under review, JCR Q1 TOP, IF=18.6)
 
@@ -62,13 +62,13 @@ Ziren Xiao, **Li, Peisong**, et al. "MACNS: A Generic Graph Neural Network Integ
 **Li, Peisong**, et al. "Deep Reinforcement Learning-based Task Scheduling and Resource Allocation for Vehicular Edge Computing: A Survey." Sensors. (Under review, IF=3.9)
 
 
-### Patents:
-##### <font color="#00dddd">授权</font><br />
+## Patents:
+### <font color="#00dddd">授权</font><br />
 **李培嵩**; 王新珩; 许铭; 王敏珍。一种树木和架空输电线的空间测距方法以及系统，专利号：ZL 202210093387.4
 
 **李培嵩**; 王碧瑶; 王新珩; 玛德塞·伊克巴尔; 凯沙夫·达哈尔; 王智; 黄开竹。一种以用户的偏好为核心的路径规划和导航的方法及系统，专利号：ZL 201910407738.2
 
-##### <font color="#00dddd">实审</font><br />
+### <font color="#00dddd">实审</font><br />
 **李培嵩**; 王新珩; 邱睿; 许铭; 王敏珍; 黄开竹。保护架空输电线的树障检测方法、装置、电子设备及介质，公开号：CN113077455A
 
 王新珩; 陈志昂; 李沐云; 王若愚; 孙文卓; **李培嵩**。呼吸异常分类模型的训练、呼吸异常检测方法及电子设备，公开号：CN114333901A
@@ -76,7 +76,7 @@ Ziren Xiao, **Li, Peisong**, et al. "MACNS: A Generic Graph Neural Network Integ
 王新珩; 王宇琛; **李培嵩**; 张进华。基于数字孪生的针对机器视觉训练的虚拟软测方法及系统，公开号：CN115937724A
 
 
-### 软件著作权:
+## 软件著作权:
 - 软件名称：基于用户位置信息的多用户实时位置共享与智能导航的应用软件。
 著作权人：李培嵩
 登记号：2020SR0185419
@@ -87,10 +87,10 @@ Ziren Xiao, **Li, Peisong**, et al. "MACNS: A Generic Graph Neural Network Integ
 
 
 
-### Awards:
-##### <font color="#00dddd">2020</font><br />
+## Awards:
+### <font color="#00dddd">2020</font><br />
 2020届上海市普通高等学校优秀毕业生称号。
-##### <font color="#00dddd">2019</font><br />
+### <font color="#00dddd">2019</font><br />
 上海海事大学研究生学业奖学金一等奖。
-##### <font color="#00dddd">2018</font><br />
+### <font color="#00dddd">2018</font><br />
 硕士研究生国家奖学金

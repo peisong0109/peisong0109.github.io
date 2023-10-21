@@ -13,7 +13,7 @@ Education
 ======
 * B.S. in Guilin University of Electronic Technology, 2013-2017
 * M.S. in Shanghai Maritime University, 2017-2020
-* Ph.D in University of Liverpool, 2020-2024 (expected)
+* Ph.D in Xi'an Jiaotong-Liverpool University, 2020-2024 (expected)
 
 Work experience
 ======

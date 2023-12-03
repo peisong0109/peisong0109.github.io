@@ -3,7 +3,7 @@ title: "Intrusion detection based on improved Genetic Algorithm and Deep Belief 
 collection: Research project
 type: "Research project"
 permalink: /talks/intrusion-detection
-venue: "Xi'an Jiaotong-Liverpool University"
+venue: "Shanghai Maritime University"
 date: 2018-07-01
 location: "Shanghai, China"
 ---

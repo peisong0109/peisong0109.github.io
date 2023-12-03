@@ -34,15 +34,15 @@ Email:
 
 ### <font color="#00dddd">Journal</font><br />
 
-**Peisong Li**, Ziren Xiao, Xinheng Wang*, Kaizhu Huang, Yi Huang, and Honghao Gao. "EPtask: Deep Reinforcement Learning based Energy-efficient and Priority-aware Task Scheduling for Dynamic Vehicular Edge Computing." *IEEE Transactions on Intelligent Vehicles*, 2023. (JCR Q1, IF=8.2)
+**Peisong Li**, Ziren Xiao, Xinheng Wang*, Kaizhu Huang, Yi Huang, and Honghao Gao*. "EPtask: Deep Reinforcement Learning based Energy-efficient and Priority-aware Task Scheduling for Dynamic Vehicular Edge Computing." *IEEE Transactions on Intelligent Vehicles*, 2023. (JCR Q1, IF=8.2)
 
-**Peisong Li**, Xinheng Wang, Honghao Gao, Xiaolong Xu, Muddesar Iqbal, and Keshav Dahal. "A dynamic and scalable user-centric route planning algorithm based on polychromatic sets theory." *IEEE Transactions on Intelligent Transportation Systems* 23, no. 3 (2021): 2762-2772. (JCR Q1, TOP, IF=8.5)
+**Peisong Li**, Xinheng Wang*, Honghao Gao, Xiaolong Xu, Muddesar Iqbal, and Keshav Dahal. "A dynamic and scalable user-centric route planning algorithm based on polychromatic sets theory." *IEEE Transactions on Intelligent Transportation Systems* 23, no. 3 (2021): 2762-2772. (JCR Q1, TOP, IF=8.5)
 
 **Peisong Li**, Xinheng Wang*, Kaizhu Huang, Yi Huang, Shancang Li, and Muddesar Iqbal. "Multi-model running latency optimization in an edge computing paradigm." *Sensors* 22, no. 16 (2022): 6097. (JCR Q2, IF=3.9)
 
 Zhang, Ying*, **Peisong Li**, and Xinheng Wang. "Intrusion detection for IoT based on improved genetic algorithm and deep belief network." *IEEE Access* 7 (2019): 31711-31722. (Cited: 283, JCR Q2, IF=3.9)
 
-Zhang, Ying, **Peisong Li**, and Lin Mao. "Research on improved low-energy adaptive clustering hierarchy protocol in wireless sensor networks." *Journal of Shanghai Jiaotong University (Science)* 23 (2018): 613-619. 
+Zhang, Ying*, **Peisong Li**, and Lin Mao. "Research on improved low-energy adaptive clustering hierarchy protocol in wireless sensor networks." *Journal of Shanghai Jiaotong University (Science)* 23 (2018): 613-619. 
 
 ### <font color="#00dddd">Conference</font><br />
 

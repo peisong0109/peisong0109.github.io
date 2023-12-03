@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Real-time position sharing"
 collection: Application
 type: "Application"

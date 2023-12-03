@@ -15,3 +15,4 @@ The intrusion detection model based on the DBN achieves a high detection rate wi
 
 **The first work to explore the network optimization using GA.**
 
+![image](https://github.com/peisong0109/Running-a-Hadoop-MapReduce-wordcount-application-in-Docker/blob/main/screenshots/structure.png)

@@ -16,7 +16,9 @@ University of Liverpool
 
 Xi'an Jiaotong-Liverpool University
 
-Email: peisong.li20@student.xjtlu.edu.cn
+Email: 
+- peisong.li20@student.xjtlu.edu.cn
+- peisong.li68@qq.com
 
 ### Research interests:
 - Edge Computing
@@ -24,6 +26,7 @@ Email: peisong.li20@student.xjtlu.edu.cn
 - Edge AI
 - Deep Reinforcement Learning (DRL)
 - AI (Artificial Intelligence)
+- Internet of Things (IoT)
 
 
 

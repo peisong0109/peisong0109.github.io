@@ -58,13 +58,13 @@ Zhang, Ying, and **Peisong Li**. "Key management scheme based on nodes capture p
 
 ### <font color="#00dddd">Under review</font><br />
 
-Ziren Xiao, **Peisong Li**, et al. "MACNS: A Generic Graph Neural Network Integrated Deep Reinforcement Learning Based Multi-Agent Collaborative Navigation System For Dynamic Trajectory Planning." Information Fusion. (Under review, JCR Q1 TOP, IF=18.6)
+Ziren Xiao, **Peisong Li**, Chang Liu, Honghao Gao, and Xinheng Wang. "MACNS: A Generic Graph Neural Network Integrated Deep Reinforcement Learning Based Multi-Agent Collaborative Navigation System For Dynamic Trajectory Planning." Information Fusion. (Major Revision, JCR Q1 TOP, IF=18.6)
 
-**Peisong Li**, et al. "Large Models based Safety-oriented Multi-task Scheduling for Autonomous Driving in Vehicular Edge Computing Paradigm." IEEE Transactions on Vehicular Technology. (Under review, JCR Q1 TOP, IF=6.8)
+**Peisong Li**, Ziren Xiao, Honghao Gao, Xinheng Wang, and Saba AI-Rubaye. "Large Models based Safety-oriented Multi-task Scheduling for Autonomous Driving in Vehicular Edge Computing Paradigm." IEEE Transactions on Vehicular Technology. (Under review, JCR Q1 TOP, IF=6.8)
 
 **Peisong Li**, et al. "Deep Reinforcement Learning-based Task Scheduling and Resource Allocation for Vehicular Edge Computing: A Survey." IEEE Transactions on Intelligent Vehicles. (Under review)
 
-**Peisong Li**, et al. "Multi-agent Reinforcement Learning based Multi-model Running Latency Optimization in Vehicular Edge Computing Paradigm." IEEE Systems Journal. (Under review)
+**Peisong Li**, Ziren Xiao, Xinheng Wang, Muddesar Iqbal, and Pablo Casaseca. "Multi-agent Reinforcement Learning based Multi-model Running Latency Optimization in Vehicular Edge Computing Paradigm." IEEE Systems Journal. (Under review)
 
 
 ## Patents:

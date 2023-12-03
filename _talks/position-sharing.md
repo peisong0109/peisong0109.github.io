@@ -8,7 +8,7 @@ date: 2021-03-01
 location: "Suzhou, China"
 ---
 
-An Android application (App) is designed, which is used for sharing real-time positions with others.
+An Android application (App) is designed, which is mainly used for sharing real-time positions with others. In addition, some interesting functions are also provided.
 
 The following video shows the functions of the designed app:
 

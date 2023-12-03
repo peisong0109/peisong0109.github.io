@@ -67,8 +67,8 @@ Ziren Xiao, **Peisong Li**, Chang Liu, Honghao Gao, and Xinheng Wang. "MACNS: A 
 **Peisong Li**, Ziren Xiao, Xinheng Wang, Muddesar Iqbal, and Pablo Casaseca. "Multi-agent Reinforcement Learning based Multi-model Running Latency Optimization in Vehicular Edge Computing Paradigm." IEEE Systems Journal. (Under review)
 
 
-## Patents:
-### <font color="#00dddd">授权</font><br />
+## 专利 (Patents):
+### <font color="#00dddd">授权 (Granted)</font><br />
 **李培嵩**; 王新珩; 许铭; 王敏珍。一种树木和架空输电线的空间测距方法以及系统，专利号：ZL 202210093387.4
 
 **李培嵩**; 王碧瑶; 王新珩; 玛德塞·伊克巴尔; 凯沙夫·达哈尔; 王智; 黄开竹。一种以用户的偏好为核心的路径规划和导航的方法及系统，专利号：ZL 201910407738.2
@@ -81,7 +81,7 @@ Ziren Xiao, **Peisong Li**, Chang Liu, Honghao Gao, and Xinheng Wang. "MACNS: A 
 王新珩; 王宇琛; **李培嵩**; 张进华。基于数字孪生的针对机器视觉训练的虚拟软测方法及系统，公开号：CN115937724A
 
 
-## 软件著作权:
+## 软件著作权 (Copyrights):
 - 软件名称：基于用户位置信息的多用户实时位置共享与智能导航的应用软件。
 著作权人：李培嵩
 登记号：2020SR0185419
@@ -92,7 +92,7 @@ Ziren Xiao, **Peisong Li**, Chang Liu, Honghao Gao, and Xinheng Wang. "MACNS: A 
 
 
 
-## Awards:
+## 获奖 (Awards):
 ### <font color="#00dddd">2020</font><br />
 2020届上海市普通高等学校优秀毕业生称号。
 ### <font color="#00dddd">2019</font><br />

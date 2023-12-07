@@ -22,4 +22,5 @@ Experiment results show that our algorithm can realize personalized route planni
 ![image](/images/PS.png)
 
 ###  Outcomes:
+- **Peisong Li**, Xinheng Wang*, Honghao Gao, Xiaolong Xu, Muddesar Iqbal, and Keshav Dahal. "A dynamic and scalable user-centric route planning algorithm based on polychromatic sets theory." *IEEE Transactions on Intelligent Transportation Systems* 23, no. 3 (2021): 2762-2772. (JCR Q1, TOP, IF=8.5)
 - 

@@ -2,7 +2,7 @@
 title: "EPtask: Deep Reinforcement Learning based Energy-efficient and Priority-aware Task Scheduling for Dynamic Vehicular Edge Computing"
 collection: publications
 permalink: /publication/2015-10-01-paper-title-number-9
-excerpt: 'This paper is about the number 9.'
+excerpt: 'JCR Q1, IF=8.2.'
 date: 2023-10-01
 venue: 'IEEE Transactions on Intelligent Vehicles'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/10269672'

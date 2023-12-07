@@ -19,5 +19,7 @@ Experiment results show that our algorithm can realize personalized route planni
 
 ###  Architecture:
 
+![image](/images/PS.png)
+
 ###  Outcomes:
 - 

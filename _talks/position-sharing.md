@@ -1,5 +1,5 @@
 ---
-title: "Real-time position sharing"
+title: "Real-time Position Sharing"
 collection: Application
 type: "Application"
 permalink: /talks/position-sharing

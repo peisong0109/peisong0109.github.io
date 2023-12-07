@@ -34,5 +34,9 @@ At last, the effectiveness of the proposed method is demonstrated through extens
 - The transmit power is allocated considering the communication distances between vehicles and edge servers.
 - An Environment-adaptive Proximal Policy Optimization algorithm is designed based on the PPO algorithm, which is trained under a large number of tasks.
 
+The architecture of the proposed task scheduling method:
+
+![image](/images/IoT.png)
+
 ###  Outcomes:
 

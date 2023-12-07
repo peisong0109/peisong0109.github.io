@@ -8,7 +8,7 @@ date: 2018-07-01
 location: "Shanghai, China"
 ---
 
-##### Contributions:
+### Contributions:
 Through multiple iterations of the GA, the optimal number of hidden layers and the number of neurons in each layer are generated. 
 
 The intrusion detection model based on the DBN achieves a high detection rate with a compact structure.
@@ -16,3 +16,7 @@ The intrusion detection model based on the DBN achieves a high detection rate wi
 **The first work to explore the network optimization using GA.**
 
 ![image](/images/IoT.png)
+
+### Outcomes:
+
+

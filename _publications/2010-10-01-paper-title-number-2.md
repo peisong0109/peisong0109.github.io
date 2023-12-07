@@ -2,7 +2,7 @@
 title: "Multi-model running latency optimization in an edge computing paradigm"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2.'
+excerpt: 'JCR Q2, IF=3.9.'
 date: 2022-10-01
 venue: 'Sensors'
 paperurl: 'https://peisong0109.github.io/files/sensors-22-06097-v2.pdf'

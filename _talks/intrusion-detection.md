@@ -1,5 +1,5 @@
 ---
-title: "Intrusion detection based on improved Genetic Algorithm and Deep Belief Network"
+title: "Intrusion Detection based on Improved Genetic Algorithm and Deep Belief Network"
 collection: Research project
 type: "Research project"
 permalink: /talks/intrusion-detection

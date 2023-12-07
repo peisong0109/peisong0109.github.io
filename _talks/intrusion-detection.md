@@ -19,4 +19,5 @@ The intrusion detection model based on the DBN achieves a high detection rate wi
 
 ### Outcomes:
 
-
+- Zhang, Ying*, **Peisong Li**, and Xinheng Wang. "Intrusion detection for IoT based on improved genetic algorithm and deep belief network." *IEEE Access* 7 (2019): 31711-31722. (Cited: 291, JCR Q2, IF=3.9)
+- 

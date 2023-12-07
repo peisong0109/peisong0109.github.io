@@ -10,4 +10,6 @@ citation: 'Li, Peisong, Xinheng Wang, Honghao Gao, Xiaolong Xu, Muddesar Iqbal, 
 ---
 JCR Q1 TOP, IF=8.5.
 
+[Link to the paper.](https://ieeexplore.ieee.org/abstract/document/9447817)
+
 [Download paper here](http://academicpages.github.io/files/Accepted Version of IEEE-ITS.pdf)

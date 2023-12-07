@@ -36,7 +36,8 @@ At last, the effectiveness of the proposed method is demonstrated through extens
 
 The architecture of the proposed task scheduling method:
 
-![image](/images/IoT.png)
+![image](/images/MEPPO.png)
 
 ###  Outcomes:
 
+**Peisong Li**, Ziren Xiao, Xinheng Wang*, Kaizhu Huang, Yi Huang, and Honghao Gao*. "EPtask: Deep Reinforcement Learning based Energy-efficient and Priority-aware Task Scheduling for Dynamic Vehicular Edge Computing." *IEEE Transactions on Intelligent Vehicles*, 2023. (JCR Q1, IF=8.2)

@@ -2,7 +2,7 @@
 title: "Monte Carlo Location Algorithm Based on Model Prediction"
 collection: publications
 permalink: /publication/2015-10-01-paper-title-number-7
-excerpt: 'This paper is about the number 7. '
+excerpt: ' '
 date: 2018-10-01
 venue: '2018 International Symposium in Sensing and Instrumentation in IoT Era (ISSI)'
 paperurl: 'https://peisong0109.github.io/files/Monte_Carlo_Location_Algorithm_Based_on_Model_Prediction.pdf'

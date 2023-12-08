@@ -1,14 +1,15 @@
 ---
-layout: post
 read_time: true
 show_date: true
 title: "Common-used library in my Android project"
 date: 2021-12-04
-img: posts/20211204/Android.jpg
-tags: [android]
-category: experience
 author: Peisong Li
 description: "Common-used library in my Android project, like data transmission, thread and lifecycle management."
+collection: experience
+type: "experience"
+permalink: /talks/2021-12-04-Android-development-experience
+venue: "Xi'an Jiaotong-Liverpool University"
+location: "Suzhou, China"
 ---
 
 ### The records of the development of the Android app

@@ -40,4 +40,4 @@ Industry investment and research interest in edge computing, in which computing 
 
 [7] Bonomi, Flavio, et al. "Fog computing and its role in the internet of things." _Proceedings of the first edition of the MCC workshop on Mobile cloud computing_. 2012.
 
-![Edge computing](./assets/img/posts/20220405/Edge.jpg)
+![Edge computing](/images/20220405/Edge.jpg)

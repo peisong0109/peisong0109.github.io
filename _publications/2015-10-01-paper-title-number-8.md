@@ -2,7 +2,7 @@
 title: "Key management scheme based on nodes capture probability for wireless sensor networks"
 collection: publications
 permalink: /publication/2015-10-01-paper-title-number-8
-excerpt: 'This paper is about the number 8.'
+excerpt: ' '
 date: 2018-10-01
 venue: '2018 Chinese Control and Decision Conference (CCDC)'
 paperurl: 'https://peisong0109.github.io/files/Key_management_scheme_based_on_nodes_capture_probability_for_wireless_sensor_networks.pdf'

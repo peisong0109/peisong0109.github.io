@@ -1,5 +1,5 @@
 ---
-layout: post
+permalink: /posts/2022/04/blog-post-1/
 read_time: true
 show_date: true
 title: "What is Edge Computing?"

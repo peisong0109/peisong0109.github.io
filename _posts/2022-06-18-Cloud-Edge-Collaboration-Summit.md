@@ -1,5 +1,5 @@
 ---
-layout: post
+permalink: /posts/2022/06/blog-post-4/
 read_time: true
 show_date: true
 title: "Cloud Edge Collaboration Summit"

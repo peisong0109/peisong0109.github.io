@@ -2,7 +2,7 @@
 title: "Research on improved low-energy adaptive clustering hierarchy protocol in wireless sensor networks"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-6
-excerpt: 'This paper is about the number 6. '
+excerpt: ' '
 date: 2018-10-01
 venue: 'Journal of Shanghai Jiaotong University (Science)'
 paperurl: 'https://peisong0109.github.io/files/s12204-018-1991-0.pdf'

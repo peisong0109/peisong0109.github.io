@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Peisong Li's academic homepage"
+title: "Peisong Li's Academic Homepage"
 excerpt: "About me"
 author_profile: true
 redirect_from: 

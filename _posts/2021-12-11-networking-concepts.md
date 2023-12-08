@@ -1,5 +1,5 @@
 ---
-layout: post
+permalink: /posts/2021/12/blog-post-3/
 read_time: true
 show_date: true
 title: "Gateway, Router, Modem, Switch and Hub"

@@ -1,5 +1,5 @@
 ---
-layout: post
+permalink: /posts/2021/12/blog-post-2/
 read_time: true
 show_date: true
 title: "Build a simple server based on the python Flask library"

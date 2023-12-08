@@ -1,5 +1,5 @@
 ---
-layout: post
+permalink: /posts/2022/11/blog-post-7/
 read_time: true
 show_date: true
 title: "Design an IM App using wildfire"

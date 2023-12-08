@@ -1,5 +1,5 @@
 ---
-layout: post
+permalink: /posts/2022/05/blog-post-2/
 read_time: true
 show_date: true
 title: "Fog Computing, Cloudlet and Mobile Edge Computing"

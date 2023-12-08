@@ -2,7 +2,7 @@
 title: "Online Monitoring of Overhead Power Lines Against Tree Intrusion via a Low-cost Camera and Mobile Edge Computing Approach"
 collection: publications
 permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 8.'
+excerpt: ' '
 date: 2023-01-01
 venue: 'Journal of Physics: Conference Series'
 paperurl: 'https://iopscience.iop.org/article/10.1088/1742-6596/2422/1/012018/meta'

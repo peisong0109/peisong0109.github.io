@@ -40,7 +40,7 @@ Email:
 
 **Peisong Li**, Xinheng Wang*, Kaizhu Huang, Yi Huang, Shancang Li, and Muddesar Iqbal. "Multi-model running latency optimization in an edge computing paradigm." *Sensors*, 22, no. 16 (2022): 6097. (JCR Q2, IF=3.9)
 
-Zhang, Ying*, **Peisong Li**, and Xinheng Wang. "Intrusion detection for IoT based on improved genetic algorithm and deep belief network." *IEEE Access*, 7 (2019): 31711-31722. (Cited: 297, JCR Q2, IF=3.9)
+Zhang, Ying*, **Peisong Li**, and Xinheng Wang. "Intrusion detection for IoT based on improved genetic algorithm and deep belief network." *IEEE Access*, 7 (2019): 31711-31722. (Cited: 301, JCR Q2, IF=3.9)
 
 Zhang, Ying*, **Peisong Li**, and Lin Mao. "Research on improved low-energy adaptive clustering hierarchy protocol in wireless sensor networks." *Journal of Shanghai Jiaotong University (Science)*, 23 (2018): 613-619. 
 
@@ -96,6 +96,7 @@ Ziren Xiao, **Peisong Li**, Chang Liu, Honghao Gao, and Xinheng Wang. "MACNS: A 
 
 ## 获奖 (Awards):
 ### <font color="#00dddd">2020</font><br />
+博士研究生全额奖学金。
 2020届上海市普通高等学校优秀毕业生称号。
 ### <font color="#00dddd">2019</font><br />
 上海海事大学研究生学业奖学金一等奖。

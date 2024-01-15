@@ -40,6 +40,8 @@ Email:
 
 **Peisong Li**, Xinheng Wang*, Kaizhu Huang, Yi Huang, Shancang Li, and Muddesar Iqbal. "Multi-model running latency optimization in an edge computing paradigm." *Sensors*, 22, no. 16 (2022): 6097. (JCR Q2, IF=3.9)
 
+Ziren Xiao, **Peisong Li**, Chang Liu, Honghao Gao, and Xinheng Wang. "MACNS: A Generic Graph Neural Network Integrated Deep Reinforcement Learning Based Multi-Agent Collaborative Navigation System For Dynamic Trajectory Planning." *Information Fusion*, 2023. (JCR Q1 TOP, IF=18.6)
+
 Zhang, Ying*, **Peisong Li**, and Xinheng Wang. "Intrusion detection for IoT based on improved genetic algorithm and deep belief network." *IEEE Access*, 7 (2019): 31711-31722. (Cited: 301, JCR Q2, IF=3.9)
 
 Zhang, Ying*, **Peisong Li**, and Lin Mao. "Research on improved low-energy adaptive clustering hierarchy protocol in wireless sensor networks." *Journal of Shanghai Jiaotong University (Science)*, 23 (2018): 613-619. 
@@ -57,8 +59,6 @@ Zhang, Ying, and **Peisong Li**. "Key management scheme based on nodes capture p
 **Peisong Li**, Ying Zhang, and Qiman Zhang. "Monte Carlo Location Algorithm Based on Model Prediction." In 2018 International Symposium in *Sensing and Instrumentation in IoT Era (ISSI)*, pp. 1-5. IEEE, 2018.
 
 ### <font color="#00dddd">Under review</font><br />
-
-Ziren Xiao, **Peisong Li**, Chang Liu, Honghao Gao, and Xinheng Wang. "MACNS: A Generic Graph Neural Network Integrated Deep Reinforcement Learning Based Multi-Agent Collaborative Navigation System For Dynamic Trajectory Planning." Information Fusion. (Minor Revision, JCR Q1 TOP, IF=18.6)
 
 **Peisong Li**, Ziren Xiao, Honghao Gao, Xinheng Wang, and Saba AI-Rubaye. "Large Models based Safety-oriented Multi-task Scheduling for Autonomous Driving in Vehicular Edge Computing Paradigm." IEEE Transactions on Vehicular Technology. (Under review, JCR Q1 TOP, IF=6.8)
 

@@ -40,7 +40,7 @@ Email:
 
 **Peisong Li**, Xinheng Wang*, Kaizhu Huang, Yi Huang, Shancang Li, and Muddesar Iqbal. "Multi-model running latency optimization in an edge computing paradigm." *Sensors*, 22, no. 16 (2022): 6097. (JCR Q2, IF=3.9)
 
-Ziren Xiao, **Peisong Li**, Chang Liu, Honghao Gao, and Xinheng Wang. "MACNS: A Generic Graph Neural Network Integrated Deep Reinforcement Learning Based Multi-Agent Collaborative Navigation System For Dynamic Trajectory Planning." *Information Fusion*, 2023. (JCR Q1 TOP, IF=18.6)
+Ziren Xiao, **Peisong Li**, Chang Liu, Honghao Gao, and Xinheng Wang. "MACNS: A Generic Graph Neural Network Integrated Deep Reinforcement Learning Based Multi-Agent Collaborative Navigation System For Dynamic Trajectory Planning." *Information Fusion*, 2024. (JCR Q1 TOP, IF=18.6)
 
 Zhang, Ying*, **Peisong Li**, and Xinheng Wang. "Intrusion detection for IoT based on improved genetic algorithm and deep belief network." *IEEE Access*, 7 (2019): 31711-31722. (Cited: 301, JCR Q2, IF=3.9)
 

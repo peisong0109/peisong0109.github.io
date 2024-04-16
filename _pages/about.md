@@ -64,7 +64,7 @@ Zhang, Ying, and **Peisong Li**. "Key management scheme based on nodes capture p
 
 **Peisong Li**, et al. "Deep Reinforcement Learning-based Task Scheduling and Resource Allocation for Vehicular Edge Computing: A Survey." IEEE Transactions on Intelligent Vehicles. (Major revision)
 
-**Peisong Li**, Ziren Xiao, Xinheng Wang, Muddesar Iqbal, and Pablo Casaseca. "Multi-agent Reinforcement Learning based Multi-model Running Latency Optimization in Vehicular Edge Computing Paradigm." IEEE Systems Journal. (Under review)
+**Peisong Li**, Ziren Xiao, Xinheng Wang, Muddesar Iqbal, and Pablo Casaseca. "Multi-agent Reinforcement Learning based Multi-model Running Latency Optimization in Vehicular Edge Computing Paradigm." IEEE Systems Journal. (Major revision)
 
 
 ## 专利 (Patents):

@@ -25,6 +25,7 @@ Email:
 - Vehicular Edge Computing
 - Edge AI
 - Deep Reinforcement Learning (DRL)
+- Vehicular Network
 - AI (Artificial Intelligence)
 - Internet of Things (IoT)
 
@@ -60,15 +61,20 @@ Zhang, Ying, and **Peisong Li**. "Key management scheme based on nodes capture p
 
 ### <font color="#00dddd">Under review</font><br />
 
-**Peisong Li**, Ziren Xiao, Honghao Gao, Xinheng Wang, and Saba AI-Rubaye. "Large Models based Safety-oriented Multi-task Scheduling for Autonomous Driving in Vehicular Edge Computing Paradigm." IEEE Transactions on Vehicular Technology. (Under review, JCR Q1 TOP, IF=6.8)
+**Peisong Li**, Ziren Xiao, Honghao Gao, Xinheng Wang, and Saba AI-Rubaye. "Large Models based Safety-oriented Multi-task Scheduling for Autonomous Driving in Vehicular Edge Computing Paradigm." IEEE Transactions on Vehicular Technology. (Under review)
 
 **Peisong Li**, et al. "Deep Reinforcement Learning-based Task Scheduling and Resource Allocation for Vehicular Edge Computing: A Survey." IEEE Transactions on Intelligent Vehicles. (Major revision)
 
 **Peisong Li**, Ziren Xiao, Xinheng Wang, Muddesar Iqbal, and Pablo Casaseca. "Multi-agent Reinforcement Learning based Multi-model Running Latency Optimization in Vehicular Edge Computing Paradigm." IEEE Systems Journal. (Major revision)
 
+**Peisong Li**, Meng Yi, Muddesar Iqbal, Xinheng Wang, and Ziren Xiao. "Graph-based Proximal Policy Optimization Empowered Adaptive Task Scheduling Leveraging Cloud-edge Collaboration for Consumer Electronics." IEEE Transactions on Consumer Electronics. (Under review)
+
 
 ## 专利 (Patents):
 ### <font color="#00dddd">授权 (Granted)</font><br />
+
+**李培嵩**; 王新珩; 邱睿; 许铭; 王敏珍; 黄开竹。保护架空输电线的树障检测方法、装置、电子设备及介质，公开号：ZL 202110423887.5
+
 **李培嵩**; 王新珩; 许铭; 王敏珍。一种树木和架空输电线的空间测距方法以及系统，专利号：ZL 202210093387.4
 
 **李培嵩**; 王碧瑶; 王新珩; 玛德塞·伊克巴尔; 凯沙夫·达哈尔; 王智; 黄开竹。一种以用户的偏好为核心的路径规划和导航的方法及系统，专利号：ZL 201910407738.2
@@ -76,7 +82,6 @@ Zhang, Ying, and **Peisong Li**. "Key management scheme based on nodes capture p
 张颖；**李培嵩**。一种网络入侵检测模型建立方法及网络入侵检测方法，专利号：ZL 201910016149.1
 
 ### <font color="#00dddd">实审</font><br />
-**李培嵩**; 王新珩; 邱睿; 许铭; 王敏珍; 黄开竹。保护架空输电线的树障检测方法、装置、电子设备及介质，公开号：CN113077455A
 
 王新珩; 陈志昂; 李沐云; 王若愚; 孙文卓; **李培嵩**。呼吸异常分类模型的训练、呼吸异常检测方法及电子设备，公开号：CN114333901A
 

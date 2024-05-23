@@ -12,4 +12,4 @@ Simulated navigation app provided by the FengMap.
 
 The following video shows the functions of the designed app:
 
-[App](https://drive.google.com/file/d/1YWiFQCBPi4qLiThqvDnecJnMT1Mq4wmi/view?usp=sharing)
+[Watch the video here](https://peisong0109.github.io/files/FengNavi.mp4)

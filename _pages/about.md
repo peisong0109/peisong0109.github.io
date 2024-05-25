@@ -10,9 +10,9 @@ redirect_from:
 
 ### Peisong Li (李培嵩)
 
-PhD student
+PhD
 
-University of Liverpool
+Postdoc at Huzhou Institute of Zhejiang University
 
 Xi'an Jiaotong-Liverpool University
 

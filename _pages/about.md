@@ -12,8 +12,6 @@ redirect_from:
 
 PhD
 
-Postdoc at Huzhou Institute of Zhejiang University
-
 Xi'an Jiaotong-Liverpool University
 
 Email: 

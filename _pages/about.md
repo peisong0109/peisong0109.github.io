@@ -49,6 +49,8 @@ Zhang, Ying*, **Peisong Li**, and Lin Mao. "Research on improved low-energy adap
 
 ### <font color="#00dddd">Conference</font><br />
 
+Meng Yi, Vincent C.S. Lee, Yifan Zhang, **Peisong Li**, Peng Yang. "Computational Intelligence for Optimizing UAV Positioning and Task Scheduling in UAV-assisted MEC Systems." In *31st International Conference on Neural Information Processing (ICONIP2024)*. (CCF-C)
+
 Zixiang Wei, **Peisong Li**, Minzhen Wang, and Xinheng Wang. "A Tree Barrier Distance Measurement Method based on the Image Semantic Segmentation of Overhead Transmission Lines." In *2024 6th Asia Energy and Electrical Engineering Symposium (AEEES)*.
 
 **Peisong Li**, Ziren Xiao, Xinheng Wang*, Kaizhu Huang, Yi Huang, and Andrei Tchernykh. "Multi-agent Reinforcement Learning based Collaborative Multi-task Scheduling for Vehicular Edge Computing." In *EAI CollaborateCom 2023*. (CCF-C)

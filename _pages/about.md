@@ -33,7 +33,7 @@ Email:
 
 ### <font color="#00dddd">Journal</font><br />
 
-**Peisong Li**, Ziren Xiao, Xinheng Wang, Muddesar Iqbal, and Pablo Casaseca. "Multi-agent Reinforcement Learning based Multi-model Running Latency Optimization in Vehicular Edge Computing Paradigm." IEEE Systems Journal. (Accepted)
+**Peisong Li**, Ziren Xiao, Xinheng Wang, Muddesar Iqbal, and Pablo Casaseca. "Multi-agent Reinforcement Learning based Multi-model Running Latency Optimization in Vehicular Edge Computing Paradigm." IEEE Systems Journal. (Early Access)
 
 **Peisong Li**, Ziren Xiao, Xinheng Wang*, Kaizhu Huang, Yi Huang, and Honghao Gao*. "EPtask: Deep Reinforcement Learning based Energy-efficient and Priority-aware Task Scheduling for Dynamic Vehicular Edge Computing." *IEEE Transactions on Intelligent Vehicles*, 2023. (JCR Q1, IF=8.2)
 

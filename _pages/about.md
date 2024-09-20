@@ -35,7 +35,7 @@ Email:
 
 **Peisong Li**, Ziren Xiao, Xinheng Wang, Muddesar Iqbal, and Pablo Casaseca. "Multi-agent Reinforcement Learning based Multi-model Running Latency Optimization in Vehicular Edge Computing Paradigm." IEEE Systems Journal. (Early Access)
 
-**Peisong Li**, Ziren Xiao, Xinheng Wang*, Kaizhu Huang, Yi Huang, and Honghao Gao*. "EPtask: Deep Reinforcement Learning based Energy-efficient and Priority-aware Task Scheduling for Dynamic Vehicular Edge Computing." *IEEE Transactions on Intelligent Vehicles*, 2023. (JCR Q1, IF=8.2)
+**Peisong Li**, Ziren Xiao, Xinheng Wang*, Kaizhu Huang, Yi Huang, and Honghao Gao*. "EPtask: Deep Reinforcement Learning based Energy-efficient and Priority-aware Task Scheduling for Dynamic Vehicular Edge Computing." *IEEE Transactions on Intelligent Vehicles*, 2023. (JCR Q1, IF=8.2, ESI highly cited paper)
 
 **Peisong Li**, Xinheng Wang*, Honghao Gao, Xiaolong Xu, Muddesar Iqbal, and Keshav Dahal. "A dynamic and scalable user-centric route planning algorithm based on polychromatic sets theory." *IEEE Transactions on Intelligent Transportation Systems*, 23, no. 3 (2021): 2762-2772. (JCR Q1, TOP, IF=8.5)
 
@@ -43,7 +43,7 @@ Email:
 
 Ziren Xiao, **Peisong Li**, Chang Liu, Honghao Gao, and Xinheng Wang. "MACNS: A Generic Graph Neural Network Integrated Deep Reinforcement Learning Based Multi-Agent Collaborative Navigation System For Dynamic Trajectory Planning." *Information Fusion*, 2024. (JCR Q1 TOP, IF=18.6)
 
-Zhang, Ying*, **Peisong Li**, and Xinheng Wang. "Intrusion detection for IoT based on improved genetic algorithm and deep belief network." *IEEE Access*, 7 (2019): 31711-31722. (Cited: 301, JCR Q2, IF=3.9)
+Zhang, Ying*, **Peisong Li**, and Xinheng Wang. "Intrusion detection for IoT based on improved genetic algorithm and deep belief network." *IEEE Access*, 7 (2019): 31711-31722. (Cited: 301, JCR Q2, IF=3.9, ESI highly cited paper)
 
 Zhang, Ying*, **Peisong Li**, and Lin Mao. "Research on improved low-energy adaptive clustering hierarchy protocol in wireless sensor networks." *Journal of Shanghai Jiaotong University (Science)*, 23 (2018): 613-619. 
 

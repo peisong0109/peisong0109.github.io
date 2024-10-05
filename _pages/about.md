@@ -34,9 +34,9 @@ Email:
 
 ### <font color="#00dddd">2024</font><br />
 
-**Peisong Li**, Meng Yi, Muddesar Iqbal, Xinheng Wang, and Ziren Xiao. "Graph-based Proximal Policy Optimization Empowered Adaptive Task Scheduling Leveraging Cloud-edge Collaboration for Consumer Electronics." IEEE Transactions on Consumer Electronics, 2024
+**Peisong Li**, Meng Yi, Muddesar Iqbal, Xinheng Wang, and Ziren Xiao. "Graph-based Proximal Policy Optimization Empowered Adaptive Task Scheduling Leveraging Cloud-edge Collaboration for Consumer Electronics." *IEEE Transactions on Consumer Electronics*, 2024
 
-**Peisong Li**, Ziren Xiao, Xinheng Wang, Muddesar Iqbal, and Pablo Casaseca. "Multi-agent Reinforcement Learning based Multi-model Running Latency Optimization in Vehicular Edge Computing Paradigm." IEEE Systems Journal, 2024
+**Peisong Li**, Ziren Xiao, Xinheng Wang, Muddesar Iqbal, and Pablo Casaseca. "Multi-agent Reinforcement Learning based Multi-model Running Latency Optimization in Vehicular Edge Computing Paradigm." *IEEE Systems Journal*, 2024
 
 Ziren Xiao, **Peisong Li**, Chang Liu, Honghao Gao, and Xinheng Wang. "MACNS: A Generic Graph Neural Network Integrated Deep Reinforcement Learning Based Multi-Agent Collaborative Navigation System For Dynamic Trajectory Planning." *Information Fusion*, 2024. (JCR Q1 TOP, IF=18.6)
 
@@ -75,11 +75,7 @@ Zhang, Ying, and **Peisong Li**. "Key management scheme based on nodes capture p
 
 **Peisong Li**, Ying Zhang, and Qiman Zhang. "Monte Carlo Location Algorithm Based on Model Prediction." In 2018 International Symposium in *Sensing and Instrumentation in IoT Era (ISSI)*, pp. 1-5. IEEE, 2018.
 
-### <font color="#00dddd">Under review</font><br />
 
-**Peisong Li**, Ziren Xiao, Honghao Gao, Xinheng Wang, and Saba AI-Rubaye. "Large Models based Safety-oriented Multi-task Scheduling for Autonomous Driving in Vehicular Edge Computing Paradigm." IEEE Transactions on Vehicular Technology. (Under review)
-
-**Peisong Li**, et al. "Deep Reinforcement Learning-based Task Scheduling and Resource Allocation for Vehicular Edge Computing: A Survey." IEEE Transactions on Intelligent Vehicles. (Major revision)
 
 
 

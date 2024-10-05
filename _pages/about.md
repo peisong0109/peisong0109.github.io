@@ -8,9 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-### Peisong Li (李培嵩)
+### Dr. Peisong Li (李培嵩)
 
-PhD
 
 Xi'an Jiaotong-Liverpool University
 
@@ -33,19 +32,32 @@ Email:
 
 ### <font color="#00dddd">Journal</font><br />
 
+### <font color="#00dddd">2024</font><br />
+
+**Peisong Li**, Meng Yi, Muddesar Iqbal, Xinheng Wang, and Ziren Xiao. "Graph-based Proximal Policy Optimization Empowered Adaptive Task Scheduling Leveraging Cloud-edge Collaboration for Consumer Electronics." IEEE Transactions on Consumer Electronics, 2024
+
 **Peisong Li**, Ziren Xiao, Xinheng Wang, Muddesar Iqbal, and Pablo Casaseca. "Multi-agent Reinforcement Learning based Multi-model Running Latency Optimization in Vehicular Edge Computing Paradigm." IEEE Systems Journal, 2024
-
-**Peisong Li**, Ziren Xiao, Xinheng Wang*, Kaizhu Huang, Yi Huang, and Honghao Gao*. "EPtask: Deep Reinforcement Learning based Energy-efficient and Priority-aware Task Scheduling for Dynamic Vehicular Edge Computing." *IEEE Transactions on Intelligent Vehicles*, 2023. (JCR Q1, IF=8.2, <font color="#00dddd">ESI highly cited paper</font><br />)
-
-**Peisong Li**, Xinheng Wang*, Honghao Gao, Xiaolong Xu, Muddesar Iqbal, and Keshav Dahal. "A dynamic and scalable user-centric route planning algorithm based on polychromatic sets theory." *IEEE Transactions on Intelligent Transportation Systems*, 23, no. 3 (2021): 2762-2772. (JCR Q1, TOP, IF=8.5)
-
-**Peisong Li**, Xinheng Wang*, Kaizhu Huang, Yi Huang, Shancang Li, and Muddesar Iqbal. "Multi-model running latency optimization in an edge computing paradigm." *Sensors*, 22, no. 16 (2022): 6097. (JCR Q2, IF=3.9)
 
 Ziren Xiao, **Peisong Li**, Chang Liu, Honghao Gao, and Xinheng Wang. "MACNS: A Generic Graph Neural Network Integrated Deep Reinforcement Learning Based Multi-Agent Collaborative Navigation System For Dynamic Trajectory Planning." *Information Fusion*, 2024. (JCR Q1 TOP, IF=18.6)
 
-Zhang, Ying*, **Peisong Li**, and Xinheng Wang. "Intrusion detection for IoT based on improved genetic algorithm and deep belief network." *IEEE Access*, 7 (2019): 31711-31722. (Cited: 301, JCR Q2, IF=3.9, <font color="#00dddd">ESI highly cited paper</font><br />)
+### <font color="#00dddd">2023</font><br />
+
+**Peisong Li**, Ziren Xiao, Xinheng Wang*, Kaizhu Huang, Yi Huang, and Honghao Gao*. "EPtask: Deep Reinforcement Learning based Energy-efficient and Priority-aware Task Scheduling for Dynamic Vehicular Edge Computing." *IEEE Transactions on Intelligent Vehicles*, 2023. (JCR Q1, IF=8.2, <font color="#00dddd">ESI highly cited paper</font>)
+
+### <font color="#00dddd">2022</font><br />
+
+**Peisong Li**, Xinheng Wang*, Kaizhu Huang, Yi Huang, Shancang Li, and Muddesar Iqbal. "Multi-model running latency optimization in an edge computing paradigm." *Sensors*, 22, no. 16 (2022): 6097. (JCR Q2, IF=3.9)
+
+### <font color="#00dddd">2021</font><br />
+
+**Peisong Li**, Xinheng Wang*, Honghao Gao, Xiaolong Xu, Muddesar Iqbal, and Keshav Dahal. "A dynamic and scalable user-centric route planning algorithm based on polychromatic sets theory." *IEEE Transactions on Intelligent Transportation Systems*, 23, no. 3 (2021): 2762-2772. (JCR Q1, TOP, IF=8.5)
+
+### <font color="#00dddd"> Before 2021</font><br />
+
+Zhang, Ying*, **Peisong Li**, and Xinheng Wang. "Intrusion detection for IoT based on improved genetic algorithm and deep belief network." *IEEE Access*, 7 (2019): 31711-31722. (Cited: 301, JCR Q2, IF=3.9, <font color="#00dddd">ESI highly cited paper</font>)
 
 Zhang, Ying*, **Peisong Li**, and Lin Mao. "Research on improved low-energy adaptive clustering hierarchy protocol in wireless sensor networks." *Journal of Shanghai Jiaotong University (Science)*, 23 (2018): 613-619. 
+
 
 ### <font color="#00dddd">Conference</font><br />
 
@@ -69,7 +81,7 @@ Zhang, Ying, and **Peisong Li**. "Key management scheme based on nodes capture p
 
 **Peisong Li**, et al. "Deep Reinforcement Learning-based Task Scheduling and Resource Allocation for Vehicular Edge Computing: A Survey." IEEE Transactions on Intelligent Vehicles. (Major revision)
 
-**Peisong Li**, Meng Yi, Muddesar Iqbal, Xinheng Wang, and Ziren Xiao. "Graph-based Proximal Policy Optimization Empowered Adaptive Task Scheduling Leveraging Cloud-edge Collaboration for Consumer Electronics." IEEE Transactions on Consumer Electronics. (Under review)
+
 
 
 ## 专利 (Patents):

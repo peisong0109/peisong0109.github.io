@@ -11,11 +11,10 @@ redirect_from:
 ### Dr. Peisong Li (李培嵩)
 
 
-Xi'an Jiaotong-Liverpool University
+Hangzhou Institute of Technology, Xidian University
 
 Email: 
-- peisong.li20@alumni.xjtlu.edu.cn
-- peisong.li68@qq.com
+- lipeisong@xidian.edu.cn
 
 ### Research interests:
 - Edge Computing
@@ -31,6 +30,12 @@ Email:
 ## Publications:
 
 ### <font color="#00dddd">Journal</font><br />
+
+### <font color="#00dddd">2025</font><br />
+
+**Peisong Li**, Ziren Xiao, Honghao Gao, Xinheng Wang, Ye Wang. Reinforcement Learning Based Edge-End Collaboration for Multi-Task Scheduling in 6G Enabled Intelligent Autonomous Transport Systems. *IEEE Transactions on Intelligent Transportation Systems*, 2025. 
+
+Sihao Chen, Yu Liu, **Peisong Li**, Samantha C. Patrick, Eben Goodale, Rebecca J. Safran, Xinru Zhao, Xiaoli Zhuo, Jianping Fu, Christiane M. Herr, Emilio Pagani-Núñez. "Citizen science enabled planning for species conservation in urban landscapes: the case of Barn Swallows Hirundo rustica in southern China" *Landscape Ecology*, 2025.
 
 ### <font color="#00dddd">2024</font><br />
 

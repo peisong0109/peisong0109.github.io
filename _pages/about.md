@@ -33,6 +33,10 @@ Email:
 
 ### <font color="#00dddd">2025</font><br />
 
+Liu Yang, Xiaofei Li, Wenwu Wang, Xinheng Wang, Peisong Li, Guangyao Liu. Sub-millimeter Acoustic Vibration Measurement and Monitoring using a Single Smartphone. *IEEE Transactions on Instrumentation & Measurement*, 2025.
+
+Peng Yang, Meng Yi; Lee, Vincent; Yang, Peng; **Peisong Li**; Zhang, Yifan; Wei, Wei; Gao, Honghao. The Distributed Intelligent Collaboration to UAV-assisted VEC: Joint Position Optimization and Task Scheduling. *IEEE Internet of Things Journal*, 2025.
+
 **Peisong Li**, Ziren Xiao, Honghao Gao, Xinheng Wang, Ye Wang. Reinforcement Learning Based Edge-End Collaboration for Multi-Task Scheduling in 6G Enabled Intelligent Autonomous Transport Systems. *IEEE Transactions on Intelligent Transportation Systems*, 2025. 
 
 Sihao Chen, Yu Liu, **Peisong Li**, Samantha C. Patrick, Eben Goodale, Rebecca J. Safran, Xinru Zhao, Xiaoli Zhuo, Jianping Fu, Christiane M. Herr, Emilio Pagani-Núñez. "Citizen science enabled planning for species conservation in urban landscapes: the case of Barn Swallows Hirundo rustica in southern China" *Landscape Ecology*, 2025.

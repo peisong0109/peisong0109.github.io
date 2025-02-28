@@ -33,7 +33,7 @@ Email:
 
 ### <font color="#00dddd">2025</font><br />
 
-Liu Yang, Xiaofei Li, Wenwu Wang, Xinheng Wang, Peisong Li, Guangyao Liu. Sub-millimeter Acoustic Vibration Measurement and Monitoring using a Single Smartphone. *IEEE Transactions on Instrumentation & Measurement*, 2025.
+Liu Yang, Xiaofei Li, Wenwu Wang, Xinheng Wang, **Peisong Li**, Guangyao Liu. Sub-millimeter Acoustic Vibration Measurement and Monitoring using a Single Smartphone. *IEEE Transactions on Instrumentation & Measurement*, 2025.
 
 Peng Yang, Meng Yi; Lee, Vincent; Yang, Peng; **Peisong Li**; Zhang, Yifan; Wei, Wei; Gao, Honghao. The Distributed Intelligent Collaboration to UAV-assisted VEC: Joint Position Optimization and Task Scheduling. *IEEE Internet of Things Journal*, 2025.
 
